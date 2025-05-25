@@ -1,0 +1,35 @@
+# System files
+*.lnk
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+NTUSER.*
+
+# IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.ipynb_checkpoints/
+
+# Node
+node_modules/
+dist/
+.env
+*.env
+
+# OS-level folders to ignore if present
+AppData/
+Documents/
+Downloads/
+Music/
+Pictures/
+Videos/
+
